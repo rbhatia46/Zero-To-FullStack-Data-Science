@@ -1,2 +1,2 @@
 # Zero-To-FullStack-Data-Science
-This repo is a roadmap for any beginner who wishes to learn Data Science, covering all the basic concepts needed, from all the programming to the math, and including relevant resources to go from zero to being a full stack Data Scientist.
+This repo is a roadmap for any beginner who wishes to learn Data Science, covering all the basic concepts needed, from all the programming to the math, and including relevant resources to go from zero to being a full stack Data Scientist. This could be thought of as a roadmap, for anyone who might be looking to start a career or make a switch to Data Science and Machine Learning. 
